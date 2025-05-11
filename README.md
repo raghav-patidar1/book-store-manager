@@ -76,21 +76,5 @@ cd book-store-manager
 ```bash
 python main.py
 ```
-    
 
-## 🚀 Future Scope
-
-- Django-based web app version
-- Persistent database backend (SQLite / PostgreSQL)
-- RESTful API layer
-
-
-## 🤝 Contributions
-
-Pull requests are welcome! Feel free to fork the repository and submit your improvements.
-
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
